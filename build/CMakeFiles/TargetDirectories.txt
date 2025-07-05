@@ -1,0 +1,4 @@
+/Users/polinafurkalo/catgrep/build/CMakeFiles/cat.dir
+/Users/polinafurkalo/catgrep/build/CMakeFiles/grep.dir
+/Users/polinafurkalo/catgrep/build/CMakeFiles/edit_cache.dir
+/Users/polinafurkalo/catgrep/build/CMakeFiles/rebuild_cache.dir
